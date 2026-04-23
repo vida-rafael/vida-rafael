@@ -8,7 +8,8 @@
 
 ### Sobre mí
 
-DBA especializado en Oracle con certificaciones profesionales y experiencia en infraestructura cloud. Participante del programa **Oracle ACE** y enfocado en automatización de bases de datos con herramientas DevOps.
+DBA especializado en Oracle con certificaciones profesionales y experiencia en infraestructura cloud AWS Y OCI. 
+Participante del programa **Oracle ACE** y enfocado en automatización de bases de datos Oracle y MySQL con herramientas DevOps.
 
 ---
 
