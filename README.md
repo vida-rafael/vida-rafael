@@ -11,6 +11,9 @@
 DBA especializado en Oracle con certificaciones profesionales y experiencia en infraestructura cloud AWS Y OCI. 
 Participante del programa **Oracle ACE** y enfocado en automatización de bases de datos Oracle y MySQL con herramientas DevOps.
 
+
+## Oracle ACE Program 
+
 ---
 
 ### 🏅 Certificaciones
@@ -24,7 +27,6 @@ Participante del programa **Oracle ACE** y enfocado en automatización de bases 
 | Oracle Certified Professional - MySQL 8 | Oracle |
 | Oracle Cloud Infrastructure Autonomous Database Professional | Oracle |
 | Oracle Cloud Infrastructure DevOps Professional | Oracle |
-| Oracle ACE Program | Oracle |
 
 
 
