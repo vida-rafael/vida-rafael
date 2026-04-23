@@ -1,6 +1,6 @@
 # Hola! 👋 Soy Rafael Vida
 
-**Oracle DBA | Cloud Infrastructure | DevOps | Database Specialist**
+**Oracle DBA & Data Architect | Cloud Infrastructure | DevOps | Database Specialist**
 
 🇺🇾 Uruguay · 🇧🇷 Brasil
 
@@ -16,9 +16,16 @@ DBA especializado en Oracle con certificaciones profesionales y experiencia en i
 
 | Certificación | Emisor |
 |---|---|
+| AWS Solution Architect Professional | AWS |
+| AWS Database Specialyst | AWS |
+| AWS Certified SysOps Administrator — Associate | AWS |
 | Oracle Certified Professional - Database 19c | Oracle |
+| Oracle Certified Professional - MySQL 8 | Oracle |
+| Oracle Cloud Infrastructure Autonomous Database Professional | Oracle |
 | Oracle Cloud Infrastructure DevOps Professional | Oracle |
 | Oracle ACE Program | Oracle |
+
+
 
 ---
 
@@ -60,7 +67,6 @@ DBA especializado en Oracle con certificaciones profesionales y experiencia en i
 - 🇧🇷 Português — Nativo
 - 🇪🇸 Español — Profesional
 - 🇬🇧 English — Profesional
-- 🇩🇪 Deutsch — Básico
 
 ---
 
