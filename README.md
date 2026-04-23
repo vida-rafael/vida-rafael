@@ -62,7 +62,7 @@ Participante del programa **Oracle ACE** y enfocado en automatización de bases 
 | [monitor-retraso-aplicacion-dg](https://github.com/vida-rafael/monitor-retraso-aplicacion-dg) | Monitoreo de lag en Oracle Data Guard |
 | [reporte-uso-diskgroups-asm](https://github.com/vida-rafael/reporte-uso-diskgroups-asm) | Reporte de uso de diskgroups en ASM |
 | [verificar-vencimiento-claves-oracle](https://github.com/vida-rafael/verificar-vencimiento-claves-oracle) | Verificación de vencimiento de contraseñas Oracle |
-
+| [arquitectura-moderna-OCI-con-oracle-autonomous](https://github.com/vida-rafael/arquitectura-moderna-OCI-con-oracle-autonomous) | Arquitectura moderna con Oracle Autonomous Database en Oracle Cloud Infrastructure |
 ---
 
 ### 🌐 Idiomas
